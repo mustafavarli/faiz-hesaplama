@@ -1,0 +1,14 @@
+
+>>> YENİ KAYIT <<<
+Kayıt Numarası: 1
+Tarih: 4/21/2025 5:38:32 PMAna Para: 10000
+Faiz Oranı: 0.14Faiz Tipi: Bileşik FaizYıl: 3
+Toplam Kazanç: 15075.632434378442Kazanılan Faiz: 5075.632434378442-------------------------
+>>> YENİ KAYIT <<<
+Kayıt Numarası: 1
+Tarih: 4/21/2025 5:41:42 PM
+ Ana Para: 10000
+Faiz Oranı: 0.12
+Faiz Tipi: Basit FaizYıl: 3Toplam Kazanç: 13599.999999999998
+Kazanılan Faiz: 3599.999999999998
+-------------------------

@@ -1,0 +1,20 @@
+
+>>> YENİ KAYIT <<<
+Kayıt #1
+Tarih: 4/20/2025 12:03:56 PM
+Ana Para: 10000
+Faiz Oranı: 12%
+Yıl: 3
+Toplam Değer: 14185.19
+Kazanç: 4185.19
+-----------------------------
+>>> YENİ KAYIT <<<
+Kayıt #2
+Tarih: 4/20/2025 12:09:49 PM
+Ana Para: 15000
+Faiz Oranı: %13
+Faiz Tipi: Bileşik Faiz
+Yıl: 2
+Toplam Değer: 19373.66
+Kazanç: 4373.66
+-----------------------------
